@@ -1,6 +1,6 @@
 // to install vite app and package
 npm create vite@latest "React-js-pro-vite"
-npm i 
+npm i vide
 
 // to instal hook forms
 npm i react-hook-form
