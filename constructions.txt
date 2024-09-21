@@ -1,0 +1,9 @@
+// to install vite app and package
+npm create vite@latest "React-js-pro-vite"
+npm i 
+
+// to instal hook forms
+npm i react-hook-form
+
+// to install form validation
+npm i @hookform/resolvers yup
