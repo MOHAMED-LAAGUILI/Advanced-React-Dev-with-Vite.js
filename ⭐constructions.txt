@@ -1,13 +1,9 @@
-Turtorial link
-https://www.youtube.com/watch?v=30yEysjg9LE&list=PLm_sigBWSRY1wOjD4O8vAmZsOf2QdILSI&index=2&ab_channel=JamaouiMouad
-
-
 // to install vite app and package
 npm create vite@latest "React-js-pro-vite"
-npm i vide
+npm i vite
 
-// to instal hook forms
+// to install hook forms
 npm i react-hook-form
-
+s
 // to install form validation
 npm i @hookform/resolvers yup
